@@ -1,0 +1,1 @@
+30 18 * * * sh /home/users/johndoe/blog_backup/backup.sh >> /home/users/johndoe/log/blog_backup.log 2>> /home/users/johndoe/log/blog_backup.err
